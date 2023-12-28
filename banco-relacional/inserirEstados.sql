@@ -1,17 +1,9 @@
--- INSERT INTO estados (nome, sigla, regiao, populacao)
--- VALUES ('Acre', 'AC', 'Norte', 0.83);
-
--- INSERT INTO estados
---   (nome, sigla, regiao, populacao)
--- VALUES 
---   ('Alagoas', 'AL', 'Nordeste', 3.38),
---   ('Amapá', 'AP', 'Norte', 0.8),
---   ('Amazonas', 'AM', 'Norte', 4.06);
-
--- Mais estados
 INSERT INTO estados
     (nome, sigla, regiao, populacao)
 VALUES
+    ('Alagoas', 'AL', 'Nordeste', 3.38),
+    ('Amapá', 'AP', 'Norte', 0.8),
+    ('Amazonas', 'AM', 'Norte', 4.06);
     ('Bahia', 'BA', 'Nordeste', 15.34),
     ('Ceará', 'CE', 'Nordeste', 9.02),
     ('Distrito Federal', 'DF', 'Centro-Oeste', 3.04),
